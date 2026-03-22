@@ -1,0 +1,417 @@
+# MERN Stack Web Development - Coding Ninjas
+
+<div align="center">
+      <img src="https://github.com/user-attachments/assets/0c7801ae-a8f0-4616-af68-22b6b31d44da"  width="100" title="HTML"/>
+      <img src="https://github.com/user-attachments/assets/8fe24ffe-7ead-4cd5-a11c-3171cad1786b"  width="100" title="CSS"/>
+      <img src="https://github.com/user-attachments/assets/2c0afb11-181d-4523-b170-2f7e7d76eec1"  width="100" title="Javascript"/>
+      <img src="https://github.com/user-attachments/assets/e3408e5c-5d09-45a1-af18-c3af2b50fa40"  width="100" title="Bootstrap"/>
+      <img src="https://github.com/user-attachments/assets/18fd7c16-337c-497f-8447-ece0d1dd3ac4"  width="100" title="jQuery"/>
+      <img src="https://github.com/user-attachments/assets/a9c0029b-a424-4a3c-b0cc-5b610d3f4b3e"  width="100" title="NodeJS"/>
+      <img src="https://github.com/user-attachments/assets/f3bc23c2-02db-49bb-be7f-190e491ab9f3"  width="100" title="NPM"/>
+      <img src="https://github.com/user-attachments/assets/36eef8a6-0598-4dea-b62e-cc42a027c690"  width="100" title="ExpressJS"/>
+      <img src="https://github.com/user-attachments/assets/6b6e1906-2c17-49fb-985d-896e47dca5d4"  width="100" title="Multer"/>
+      <img src="https://github.com/user-attachments/assets/a2d60cbd-9e3d-44b9-b9cb-c56f3838ab29"  width="100" title="Nodemailer"/>
+      <img src="https://github.com/user-attachments/assets/edb5a101-db08-486d-a21a-ba1486c3e7b7"  width="100" title="Libuv"/>
+      <img src="https://github.com/user-attachments/assets/c75acfe2-25b9-4711-a1ae-e163102bce73"  width="100" title="EJS"/>
+      <img src="https://github.com/user-attachments/assets/298193fc-1b77-49bd-820a-fca574f6507a"  width="100" title="JWT"/>
+      <img src="https://github.com/user-attachments/assets/9ab9dd29-296c-4f08-bb01-2e4836e5b073"  width="100" title="Swagger"/>
+      <img src="https://github.com/user-attachments/assets/d9889e26-4a11-4a7f-981a-3335ed094441"  width="100" title="Winston"/>
+      <img src="https://github.com/user-attachments/assets/8da46e02-2526-429e-a5d7-a4eed5ca3c02"  width="100" title="MongoDB"/>
+      <img src="https://github.com/user-attachments/assets/f9a6b853-fdcf-434c-81ec-4138c26d72f0"  width="100" title="Mongoose"/>
+      <img src="https://github.com/user-attachments/assets/d4c36993-e0e7-421c-a345-d2d364194c2f"  width="100" title="Socket.io"/>
+      <img src="https://github.com/user-attachments/assets/90175aa9-4b8b-4a1e-a450-6f1fa55664c8"  width="100" title="React"/>
+      <img src="https://github.com/user-attachments/assets/f2251227-5832-402b-844b-bcb5cd50b0aa"  width="100" title="Babel"/>
+      <img src="https://github.com/user-attachments/assets/80f5a25a-49ac-403e-845c-8b216ed0574e"  width="100" title="Webpack"/>
+      <img src="https://github.com/user-attachments/assets/015f181d-4674-48a5-9afa-be2426474514"  width="100" title="React-Router"/>
+      <img src="https://github.com/user-attachments/assets/b66e177a-ea84-43c6-91d3-598aba90da05"  width="100" title="Redux"/>
+      <img src="https://github.com/user-attachments/assets/f9413606-3dc2-4386-a201-82d4155807ba"  width="100" title="Firebase"/>
+      <img src="https://github.com/user-attachments/assets/028267b6-5ed4-4c5a-9e46-bfb64ae8f8fb"  width="100" title="AWS"/>
+      <img src="https://github.com/user-attachments/assets/0c99ed7a-876d-4eba-a46d-f7d8664b9729"  width="100" title="Gulp"/>
+      <img src="https://github.com/user-attachments/assets/89e800e4-7b6a-4f8f-88dd-7d71ee01bc17"  width="100" title="Grunt"/>
+</div>
+
+<div id="badges">
+  <img src="https://img.shields.io/github/stars/Logesh-Kanagaraj/MERN-Stack-Web-Development-Coding-Ninjas?style=social" alt="GitHub stars"/>
+  <img src="https://img.shields.io/github/forks/Logesh-Kanagaraj/MERN-Stack-Web-Development-Coding-Ninjas?style=social" alt="GitHub forks"/>
+  <img src="https://img.shields.io/github/license/Logesh-Kanagaraj/MERN-Stack-Web-Development-Coding-Ninjas" alt="License"/>
+  <img src="https://api.visitorbadge.io/api/visitors?path=jaydattpatel%2FMERN-Stack&label=Visitors&labelColor=%23720026&countColor=%23ffae00" alt="Visitor badge" width="120" height="28"/>
+</div>
+
+---
+
+## 📖 About This Repository
+
+A complete, structured collection of code, notes, and projects from the **MERN Stack Web Development** course by **Coding Ninjas**. This repository covers the full journey from HTML basics to building real-world full-stack applications using MongoDB, Express, React, and Node.js — with 20 course modules and 27 hands-on projects.
+
+---
+
+## [🌐 Live Projects Demo](https://mern-jp.glitch.me)
+
+---
+
+## 📚 Course Modules
+
+| # | Module | Topics Covered |
+|---|--------|----------------|
+| 01 | HTML | Structure, Semantic tags, Forms, Tables, Media |
+| 02 | CSS | Selectors, Flexbox, Grid, Animations, Responsive Design |
+| 03 | Bootstrap for HTML and CSS | Grid System, Components, Utilities, Responsive Layout |
+| 04 | JavaScript Programming | ES6+, Functions, Arrays, OOP, Async/Await, Promises |
+| 05 | Document Object Model (DOM) | DOM Manipulation, Events, BOM |
+| 06 | DOM with jQuery | Selectors, Events, Ajax, Animations |
+| 07 | NodeJS | Modules, File System, Streams, Events, Crypto, Libuv |
+| 08 | ExpressJS with Node | Routing, Middleware, Static Files, Templating (EJS) |
+| 09 | Express with MVC | Model-View-Controller Pattern, Sessions, Flash |
+| 10 | Express with REST API | RESTful Routes, JSON APIs, Swagger, JWT Auth |
+| 11 | MongoDB with NodeJS | CRUD Operations, Aggregation, Indexes |
+| 12 | Mongoose with NodeJS | Schemas, Models, Validation, Relationships |
+| 13 | Socket.io Programming | Real-time Communication, Rooms, Events |
+| 14 | Gulp and Grunt Task Runners | Minification, Uglify, Image Optimization, Automation |
+| 15 | Deployment on Render | Environment Variables, Production Build, CI/CD |
+| 16 | ReactJS and Babel JSX | Components, Props, State, Hooks |
+| 17 | Create React App with JSX | CRA Setup, Component Architecture, Styling |
+| 18 | Firebase Cloud Storage with React | Firestore, Auth, Storage, Real-time DB |
+| 19 | React Router DOM | SPA Routing, Nested Routes, Protected Routes |
+| 20 | React Redux & Redux Toolkit | Global State, Slices, Thunks, RTK Query |
+
+---
+
+## 🚀 Projects Showcase
+
+### 🖥️ Frontend Projects (Vanilla HTML/CSS/JS)
+
+| # | Project | Description |
+|---|---------|-------------|
+| 01 | Resume | Personal resume styled with HTML & CSS |
+| 02 | Music Player Site | A functional music player with playlist UI |
+| 03 | Quiz App | Interactive MCQ quiz with score tracking |
+| 04 | Social Media Post | Facebook-style post UI clone |
+| 05 | Movie Seat Booking | Cinema seat selection UI |
+| 06 | Drum Sound Play Kit | Virtual drum kit with keyboard support |
+| 07 | Mini Music Player | Compact player with play/pause controls |
+| 08 | Emoji Guess Game | Fun emoji-based guessing game |
+| 09 | Typing Speed Test | WPM typing speed tester |
+| 10 | Pokémon Game | Pokémon card battle mini-game |
+| 11 | E-Commerce Website | Product listing, cart, and checkout UI |
+| 12 | Stock Market Graph | Live-style stock chart using Plotly/D3 |
+
+### ⚙️ Backend Projects (Node.js + Express + MongoDB)
+
+| # | Project | Key Features |
+|---|---------|--------------|
+| 01 | Job Portal | Recruiter & Job Seeker roles, JWT Auth, Multer uploads |
+| 02 | Social Networking Platform API | Posts, Comments, Likes, Follow system |
+| 03 | Postaway Social Media API | MongoDB + Mongoose, Nodemailer, JWT, Swagger docs |
+| 04 | ChatterUP | Real-time chat app using Socket.io |
+| 05 | StoreFleet API | E-commerce REST API with orders, cart, auth |
+| 06 | CSV Upload and View | CSV parsing and display with NodeJS |
+
+### ⚛️ React Projects
+
+| # | Project | Tech Stack |
+|---|---------|------------|
+| 01 | Movies App | Create React App, DummyJSON API |
+| 02 | Todo List | CRA, State management |
+| 03 | iPod | CRA, CSS animations |
+| 04 | Expense Tracker | React + Firebase Firestore |
+| 05 | Blogging App | React + Firebase Auth + Firestore |
+| 06 | PhotoFolio | React + Firebase Storage |
+| 07 | E-Learning App | React + React Router DOM |
+| 08 | BusyBuy | React + Firebase + Router (E-Commerce) |
+| 09 | Timer & Counter | React + Redux Toolkit |
+
+---
+
+## ⚙️ Getting Started
+
+### Prerequisites
+- [Node.js](https://nodejs.org/en) (v18+ recommended)
+- [MongoDB Community Server](https://www.mongodb.com/try/download/community) (for backend projects)
+- [Git](https://git-scm.com/)
+
+### Clone the Repository
+
+```bash
+git clone https://github.com/YOUR_USERNAME/MERN-Stack-Web-Development-Coding-Ninjas.git
+cd MERN-Stack-Web-Development-Coding-Ninjas
+```
+
+### Running a Backend Project
+
+```bash
+# Navigate to the project folder
+cd "Projects/02-Backend Projects/003-Postaway Social Media API with MongoDB Mongoose"
+
+# Install dependencies
+npm install
+
+# Set up environment variables
+cp .env.example envVariables.env
+# Then open envVariables.env and fill in your actual values
+
+# Start the server
+npm start
+# or with auto-reload:
+npx nodemon index.js
+```
+
+### Running a React Project
+
+```bash
+# Navigate to the project folder
+cd "Projects/03-React Projects/01-Movies App with Create-react-app"
+
+# Install dependencies
+npm install
+
+# Start development server
+npm start
+```
+
+### Opening a Frontend Project
+
+Frontend projects (HTML/CSS/JS) have no build step — just open `index.html` directly in your browser, or use the VS Code [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer) extension.
+
+---
+
+## Resources Links
+
+<details>
+  <summary>Programming Software</summary>
+
+- [Visual Studio Code](https://code.visualstudio.com/)
+- [Sublime Text Editor](https://www.sublimetext.com/)
+- [Node.js](https://nodejs.org/en)
+- [GitHub Desktop](https://desktop.github.com/?ref_cta=download+desktop&ref_loc=installing+github+desktop&ref_page=docs)
+- [Git](https://git-scm.com/)
+- [MongoDB | MongoDB Community Server](https://www.mongodb.com/try/download/community)
+- [MongoDB Shell](https://www.mongodb.com/try/download/shell)
+- [jQuery](https://jquery.com/)
+- [Postman API Platform](https://www.postman.com/)
+  </details>
+
+<details>
+    <summary>HTML-CSS-Bootstrap</summary>
+
+- [HTML: HyperText Markup Language | MDN](https://developer.mozilla.org/en-US/docs/Web/HTML)
+- [CSS: Cascading Style Sheets | MDN](https://developer.mozilla.org/en-US/docs/Web/CSS)
+- [Bootstrap v5.3](https://getbootstrap.com/docs/5.3/getting-started/introduction/)
+- [Design resources for developers](https://github.com/bradtraversy/design-resources-for-developers)
+- [CSS-Tricks](https://css-tricks.com/guides/)
+- [Animate.css | A cross-browser library of CSS animations.](https://animate.style/)
+- [Color Palettes - Coolors](https://coolors.co/palettes/trending)
+- [Color Picker](https://redketchup.io/color-picker)
+- [HTML Color Codes](https://hexcolor.co/)
+  </details>
+
+<details>
+    <summary>JavaScript</summary>
+
+- [ECMA-262 - Ecma International](https://ecma-international.org/publications-and-standards/standards/ecma-262/)
+- [JavaScript](https://www.javascripttutorial.net/)
+- [Worker threads | Node.js v22.4.1 Documentation](https://nodejs.org/api/worker_threads.html)
+- [The Modern JavaScript Tutorial](https://javascript.info/)
+  </details>
+
+<details>
+    <summary>jQuery</summary>
+
+- [jQuery | CDN link | min.js](https://releases.jquery.com/)
+- [ jQuery | Download](https://jquery.com/download/)
+- [jQuery API Documentation](https://api.jquery.com/)
+  </details>
+
+<details>
+    <summary>NodeJS </summary>
+
+- [Node.js v22.3.0 Documentation | Modules: CommonJS modules](https://nodejs.org/api/modules.html)
+- [npm Docs | CLI Commands](https://docs.npmjs.com/cli/v10/commands)
+- [Crypto | Node.js v22.9.0 Documentation](https://nodejs.org/api/crypto.html)
+- [Jest | Delightful JavaScript Testing](https://jestjs.io/)
+- [Axios Docs](https://axios-http.com/docs/intro)
+- [libuv | Cross-platform asynchronous I/O](https://libuv.org/)
+- [Axios with Async/Await in JavaScript](https://rapidapi.com/guides/axios-async-await)
+- [Nodemailer](https://nodemailer.com/about/)
+- [Postman documentation overview | Postman Learning Center](https://learning.postman.com/docs/introduction/overview/)
+- [Express 5.x - API Reference](https://expressjs.com/en/5x/api.html)
+- [Express all error handling for application level](https://expressjs.com/en/guide/error-handling.html)
+- [EJS -- Embedded JavaScript templates](https://ejs.co/#install)
+- [express-validator | express-validator](https://express-validator.github.io/docs/)
+- [JSON Web Tokens - jwt.io](https://jwt.io/)
+- [RandomKeygen - The Secure Password & Keygen Generator](https://randomkeygen.com/)
+- [Swagger Editor](https://editor.swagger.io/?_gl=1*l1qk2y*_gcl_au*ODkxODMwMjE4LjE3MjAyMzk3MzQ.&_ga=2.241556226.1674630138.1720239732-330852886.1720239732)
+- [Swagger Documentation](https://swagger.io/docs/)
+- [REST API URI Naming Conventions and Best Practices](https://restfulapi.net/resource-naming/)
+- [OpenAPI Docs for Swagger](https://spec.openapis.org/oas/latest.html)
+- [MongoDB Node Driver - Node.js Driver v6.9](https://www.mongodb.com/docs/drivers/node/current/)
+- [Mongoose v8.5.1: Schemas](https://mongoosejs.com/docs/guide.html)
+- [Socket.IO](https://socket.io/docs/v4)
+- [Plugins - Grunt: The JavaScript Task Runner](https://gruntjs.com/plugins)
+- [Gulp.js](https://gulpjs.com/docs/en/getting-started/quick-start)
+- [gulp.js | plugin](https://gulpjs.com/plugins/)
+- [PM2 | Documentation](https://pm2.io/docs/plus/overview/)
+- [Papa Parse](https://www.papaparse.com/docs)
+- [CSV Parse - Usage](https://csv.js.org/parse/usage)
+- [DataTables | Javascript table library](https://datatables.net/)
+- [Rotate | API Document](https://zingchart.github.io/zingtouch/docs/class/src/gestures/Rotate.js~Rotate.html)
+- [Hammer.JS - Hammer.js](https://hammerjs.github.io/)
+- [OpenAI API](https://platform.openai.com/docs/quickstart?context=node)
+  </details>
+
+<details>
+    <summary>NPM</summary>
+
+- [npm | Home](https://www.npmjs.com/)
+- [npm CLI | npm Docs](https://docs.npmjs.com/cli/v10)
+
+### NPM Packages
+
+- [jest - npm](https://www.npmjs.com/package/jest)
+- [nodemon - npm](https://www.npmjs.com/package/nodemon)
+- [axios - npm](https://www.npmjs.com/package/axios)
+- [path - npm](https://www.npmjs.com/package/path)
+- [nodemailer - npm](https://www.npmjs.com/package/nodemailer)
+- [fs-extra - npm](https://www.npmjs.com/package/fs-extra)
+- [express - npm](https://www.npmjs.com/package/express)
+- [ejs - npm](https://www.npmjs.com/package/ejs)
+- [express-ejs-layouts - npm](https://www.npmjs.com/package/express-ejs-layouts)
+- [express-validator - npm](https://www.npmjs.com/package/express-validator)
+- [express-session - npm](https://www.npmjs.com/package/express-session)
+- [multer - npm](https://www.npmjs.com/package/multer)
+- [cookie-parser - npm](https://www.npmjs.com/package/cookie-parser)
+- [cookie - npm](https://www.npmjs.com/package/cookie)
+- [jsonwebtoken - npm](https://www.npmjs.com/package/jsonwebtoken)
+- [swagger-ui-express - npm](https://www.npmjs.com/package/swagger-ui-express)
+- [cors - npm](https://www.npmjs.com/package/cors)
+- [winston - npm for Logger](https://www.npmjs.com/package/winston)
+- [bcrypt - npm for password encrypt](https://www.npmjs.com/package/bcrypt)
+- [dotenv - npm for load environment variables](https://www.npmjs.com/package/dotenv)
+- [mongodb - npm](https://www.npmjs.com/package/mongodb)
+- [mongoose - npm](https://www.npmjs.com/package/mongoose)
+- [socket.io - npm](https://www.npmjs.com/package/socket.io)
+- [pm2 - npm](https://www.npmjs.com/package/pm2)
+- [create-react-app - npm](https://www.npmjs.com/package/create-react-app)
+- [react - npm](https://www.npmjs.com/package/react)
+- [react-dom - npm](https://www.npmjs.com/package/react-dom)
+- [react-scripts - npm](https://www.npmjs.com/package/react-scripts)
+- [styled-components - npm](https://www.npmjs.com/package/styled-components)
+- [react-toastify - npm](https://www.npmjs.com/package/react-toastify)
+- [react-router-dom - npm](https://www.npmjs.com/package/react-router-dom)
+- [redux - npm](https://www.npmjs.com/package/redux)
+- [react-redux - npm](https://www.npmjs.com/package/react-redux)
+- [papaparse - npm](https://www.npmjs.com/package/papaparse)
+- [csv-parse - npm](https://www.npmjs.com/package/csv-parse)
+- [connect-flash - npm](https://www.npmjs.com/package/connect-flash)
+- [zingtouch - npm](https://www.npmjs.com/package/zingtouch)
+- [hammerjs - npm](https://www.npmjs.com/package/hammerjs)
+- [cypress - npm](https://www.npmjs.com/package/cypress)
+- [@reduxjs/toolkit - npm](https://www.npmjs.com/package/@reduxjs/toolkit)
+
+### Grunt
+
+- [grunt - npm](https://www.npmjs.com/package/grunt)
+- [grunt-cli - npm](https://www.npmjs.com/package/grunt-cli)
+- [grunt-contrib-uglify - npm](https://www.npmjs.com/package/grunt-contrib-uglify)
+- [grunt-contrib-cssmin - npm](https://www.npmjs.com/package/grunt-contrib-cssmin)
+- [grunt-contrib-htmlmin - npm](https://www.npmjs.com/package/grunt-contrib-htmlmin)
+- [grunt-contrib-imagemin - npm](https://www.npmjs.com/package/grunt-contrib-imagemin)
+- [grunt-replace - npm](https://www.npmjs.com/package/grunt-replace)
+
+### Gulp
+
+- [gulp-cli - npm](https://www.npmjs.com/package/gulp-cli)
+- [gulp - npm](https://www.npmjs.com/package/gulp)
+- [gulp-uglify - npm](https://www.npmjs.com/package/gulp-uglify)
+- [gulp-clean-css - npm](https://www.npmjs.com/package/gulp-clean-css)
+- [gulp-htmlmin - npm](https://www.npmjs.com/package/gulp-htmlmin)
+- [gulp-imagemin - npm](https://www.npmjs.com/package/gulp-imagemin)
+- [gulp-replace - npm](https://www.npmjs.com/package/gulp-replace)
+
+  </details>
+
+<details>
+    <summary>MongoDB-Mongoose</summary>
+
+- [MongoDB Cheat Sheet | MongoDB](https://www.mongodb.com/developer/products/mongodb/cheat-sheet/)
+- [MongoDB Cheat Sheet (Basic to Advanced) - GeeksforGeeks](https://www.geeksforgeeks.org/mongodb-cheat-sheet/)
+- [MongoDB Cheat Sheet](https://gist.github.com/jaydattpatel/bbd72234755f66ba7cb787811829d590)
+- [Mongoose v8.5.1: Getting Started](https://mongoosejs.com/docs/index.html)
+  </details>
+
+<details>
+    <summary>Web Deployment</summary>
+
+- [Amazon Web Services (AWS)](https://aws.amazon.com/)
+- [Render | Cloud Application Hosting for Developers](https://render.com/)
+- [Glitch : Web Deployment](https://glitch.com/)
+- [Netlify | Web deployment](https://www.netlify.com/)
+  </details>
+
+<details>
+    <summary>React-Babel-Webpack-Redux</summary>
+
+- [Quick Start – React](https://react.dev/learn)
+- [Babel · Babel](https://babeljs.io/)
+- [React Developer Tools - Chrome Extension](https://chromewebstore.google.com/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi?hl=en-US&utm_source=ext_sidebar)
+- [webpack](https://webpack.js.org/)
+- [Create React App](https://create-react-app.dev/)
+- [GitHub - facebook/create-react-app](https://github.com/facebook/create-react-app)
+- [styled-components](https://styled-components.com/)
+- [CSS Modules Stylesheet | Create React App](https://create-react-app.dev/docs/adding-a-css-modules-stylesheet/)
+- [createContext – React](https://react.dev/reference/react/createContext)
+- [React Router Home | React Router](https://reactrouter.com/home)
+- [React Router API Reference](https://api.reactrouter.com/v7/)
+- [React Router Home v7.0.1 | React Router](https://reactrouter.com/7.0.1/home)
+- [Redux | A JS library for predictable and maintainable global state management](https://redux.js.org/)
+- [Redux Fundamentals, Part 2: Concepts and Data Flow | Redux](https://redux.js.org/tutorials/fundamentals/part-2-concepts-data-flow)
+- [React Redux](https://react-redux.js.org/)
+- [React Redux | Document](https://react-redux.js.org/introduction/getting-started)
+- [Redux Toolkit](https://redux-toolkit.js.org/)
+- [Redux Toolkit | Document](https://redux-toolkit.js.org/introduction/getting-started)
+  </details>
+
+<details>
+    <summary>Firebase cloud database</summary>
+
+- [Firebase | Google&#39;s Mobile and Web App Development Platform](https://firebase.google.com/)
+- [Firestore  |  docs](https://firebase.google.com/docs/firestore)
+  </details>
+
+<details>
+    <summary>Dummy APIs</summary>
+
+- [DummyJSON - Fake REST API of JSON data for development](https://dummyjson.com/)
+- [Random Images](https://picsum.photos/)
+- [Datamuse API Access](https://www.datamuse.com/api/)
+- [API | TasteDive](https://tastedive.com/read/api)
+  </details>
+
+<details>
+    <summary>Icons - Images</summary>
+
+- [Font Awesome](https://fontawesome.com/)
+- [Icons · Bootstrap v5.3](https://getbootstrap.com/docs/5.3/extend/icons/)
+- [Iconscout.com](https://iconscout.com/)
+- [Giphy.com](https://giphy.com/stickers/hacktiv8-coding-codingfromhome-fromhome-M9gbBd9nbDrOTu1Mqx?utm_source=media-link&utm_medium=landing&utm_campaign=Media+Links&utm_term=)
+- [Freepik](https://www.freepik.com/)
+- [Motionelements](https://www.motionelements.com/free/gifs)
+- [Figma: The Collaborative Interface Design Tool](https://www.figma.com/)
+- [PNGWing - Exclusive png design images](https://www.pngwing.com/)
+- [SVG icons - W3C Design System](https://design-system.w3.org/styles/svg-icons.html)
+- [ICONSVG - Quick customizable SVG icons for your project](https://iconsvg.xyz/)
+- [Bootstrap Icons · Official open source SVG icon library for Bootstrap](https://icons.getbootstrap.com/)
+- [Open Source Icon Sets - Iconify](https://icon-sets.iconify.design/)
+- [DEVICON | icons font for all programming languages and development tools](https://devicon.dev/)
+- [Vector icons - SVG, PSD, PNG, EPS & Icon Font - Thousands of free icons](https://www.flaticon.com/icons)
+- [React Icons](https://react-icons.github.io/react-icons/)
+- [Google Fonts icons](https://fonts.google.com/icons)
+  </details>
+
+<details>
+    <summary>Others</summary>
+Graphs plot
+
+- [Plotly javascript graphing library in JavaScript](https://plotly.com/javascript/)
+- [D3 by Observable | The JavaScript library for bespoke data visualization](https://d3js.org/)
+
+  </details>
