@@ -1,4 +1,4 @@
-# MERN Stack Web Development - Coding Ninjas
+# MERN Stack Web Development
 
 <div align="center">
       <img src="https://github.com/user-attachments/assets/0c7801ae-a8f0-4616-af68-22b6b31d44da"  width="100" title="HTML"/>
